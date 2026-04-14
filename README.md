@@ -256,7 +256,7 @@ Example screenshot naming format:
 ## Key Screenshots
 
 ### Login Form
-`1-1_Login_Form.jpg`
+`1_1_Login_Form.jpg`
 
 Login screen with username, password and access level selection.
 
