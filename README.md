@@ -559,6 +559,43 @@ Example showing the application's maximized ribbon-style interface.
 
 ![Maximized View Display](screenshots/18_Maximized_View_Display.jpg)
 
+### 19. Management
+System management section for defining access levels, creating system users, changing passwords, and configuring help information.
+
+![Management](Screenshots/19_Management.png)
+
+### 20. Device Report
+Reporting screen for viewing registered device information and monitoring device-related records in the system.
+
+![Device Report](Screenshots/20_Device_Report.png)
+
+### 21. Database Management
+Database administration section including connection settings, backup, restore, reset, and Excel import operations.
+
+![Database Management](Screenshots/21_Database_Management.png)
+
+## Source Code Samples
+
+The repository also includes selected source code files from the original application to demonstrate the implementation of the main system modules.
+
+- `NewAbsenceLeave.cs`  
+  Attendance and leave registration form, including employee presence tracking, absence registration, and record editing.
+
+- `Salary.cs`  
+  Payroll and salary calculation form used for managing employee salaries, deductions, debts, advances, and monthly payments.
+
+- `Management.cs`  
+  System management module for defining access levels, creating system users, changing passwords, and configuring user permissions.
+
+- `ManagementDB.cs`  
+  Database management module including database connection settings, backup, restore, reset, and Excel import features.
+
+- `ReportDevice.cs`  
+  Device reporting module for displaying registered device information such as IMEI, phone number, SIM card number, charger serial, assigned user, and related notes. :contentReference[oaicite:0]{index=0}
+
+The corresponding `.Designer.cs` files are also included to preserve the original Windows Forms interface design and layout.
+
+
 ## Documentation
 
 Additional Persian documentation for the forms and system structure is available in the `docs` folder.
