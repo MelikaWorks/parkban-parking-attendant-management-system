@@ -4,8 +4,9 @@ Windows Forms-based management system for municipal parking attendants, includin
 # Parkban – Parking Attendant Management System
 
 **Parkban** is a Persian term meaning **parking attendant**.  
-This project is a **Windows Forms-based management system** developed for a municipal contractor to manage parking attendants, assigned devices, daily attendance, recharge packages, card sales, payroll, settlements, and office financial operations.
+This project is a Windows Forms-based management system developed for a municipal parking operations environment to manage parking attendants, assigned devices, daily attendance, recharge packages, card sales, payroll, settlements, office expenses, and other financial operations.
 
+Originally developed between 2016 and 2017 as an enterprise desktop application.
 ## Overview
 
 Parkban was designed as an integrated desktop application to support the operational and administrative workflow of parking attendants working under a municipal contractor.
