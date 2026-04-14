@@ -400,11 +400,11 @@ Example of exporting data from the system into Microsoft Excel format.
 ---
 
 ### Recharge Management
-`9-1_Recharge_Management.jpg`
+`9_1_Recharge_Management.jpg`
 
 Management screen for recharge packages assigned to parking attendants.
 
-![Recharge Management](screenshots/9-1_Recharge_Management.jpg)
+![Recharge Management](screenshots/9_1_Recharge_Management.jpg)
 
 ---
 
@@ -445,11 +445,11 @@ Form used to register card delivery, sales and payment information.
 ---
 
 ### Edit Card Record
-`10-3_Edit_Card_Record.jpg`
+`10_3_Edit_Card_Record.jpg`
 
 Form used to edit previously registered card-related information.
 
-![Edit Card Record](screenshots/10-3_Edit_Card_Record.jpg)
+![Edit Card Record](screenshots/10_3_Edit_Card_Record.jpg)
 
 ---
 
@@ -498,12 +498,12 @@ Step-based process used to import operational data from Excel files into the sys
 
 ---
 
-### Import Data From Excel – Step 2
+### Import Data From Excel – Step 
 `13_2_Import_Data_From_Excel_Step.jpg`
 
 Second step of the Excel import workflow, including temporary table processing.
 
-![Import Data From Excel Step 2](screenshots/13-2_Import_Data_From_Excel_Step.jpg)
+![Import Data From Excel Step 2](screenshots/13_2_Import_Data_From_Excel_Step.jpg)
 
 ---
 
