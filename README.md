@@ -260,43 +260,43 @@ Example screenshot naming format:
 
 Login screen with username, password and access level selection.
 
-![Login Form](screenshots/1-1_Login_Form.jpg)
+![Login Form](screenshots/1_1_Login_Form.jpg)
 
 ---
 
 ### Login Form with Access Level
-`1-2_Login_Form_With_Access_Level.jpg`
+`1_2_Login_Form_With_Access_Level.jpg`
 
 Login screen displaying different access levels for system users.
 
-![Login Form with Access Level](screenshots/1-2_Login_Form_With_Access_Level.jpg)
+![Login Form with Access Level](screenshots/1_2_Login_Form_With_Access_Level.jpg)
 
 ---
 
 ### Device Management
-`2-1_Device_Management.jpg`
+`2_1_Device_Management.jpg`
 
 Screen for managing registered mobile devices assigned to parking attendants.
 
-![Device Management](screenshots/2-1_Device_Management.jpg)
+![Device Management](screenshots/2_1_Device_Management.jpg)
 
 ---
 
 ### Add New Device
-`2-2_Add_New_Device.jpg`
+`2_2_Add_New_Device.jpg`
 
 Form used to register a new mobile device, including IMEI, SIM card and serial numbers.
 
-![Add New Device](screenshots/2-2_Add_New_Device.jpg)
+![Add New Device](screenshots/2_2_Add_New_Device.jpg)
 
 ---
 
 ### Edit Device
-`2-3_Edit_Device.jpg`
+`2_3_Edit_Device.jpg`
 
 Form used to search, select and edit an existing registered device.
 
-![Edit Device](screenshots/2-3_Edit_Device.jpg)
+![Edit Device](screenshots/2_3_Edit_Device.jpg)
 
 ---
 
@@ -305,43 +305,43 @@ Form used to search, select and edit an existing registered device.
 
 Form used to register a new parking attendant and assign related information.
 
-![Add New Parking Attendant](screenshots/3-1_Add_New_Parking_Attendant.jpg)
+![Add New Parking Attendant](screenshots/3_1_Add_New_Parking_Attendant.jpg)
 
 ---
 
 ### Parking Attendant Wizard Button
-`3-2_Parking_Attendant_Wizard_Button.jpg`
+`3_2_Parking_Attendant_Wizard_Button.jpg`
 
 Wizard option used for step-by-step registration of a new parking attendant.
 
-![Parking Attendant Wizard Button](screenshots/3-2_Parking_Attendant_Wizard_Button.jpg)
+![Parking Attendant Wizard Button](screenshots/3_2_Parking_Attendant_Wizard_Button.jpg)
 
 ---
 
 ### Parking Attendant Wizard Registration
-`3-3_Parking_Attendant_Wizard_Registration.jpg`
+`3_3_Parking_Attendant_Wizard_Registration.jpg`
 
 Step-by-step wizard interface for registering a new parking attendant.
 
-![Parking Attendant Wizard Registration](screenshots/3-3_Parking_Attendant_Wizard_Registration.jpg)
+![Parking Attendant Wizard Registration](screenshots/3_3_Parking_Attendant_Wizard_Registration.jpg)
 
 ---
 
 ### Street Assignment Management
-`4-1_Street_Assignment_Management.jpg`
+`4_1_Street_Assignment_Management.jpg`
 
 Module used to assign parking attendants to specific streets and operational areas.
 
-![Street Assignment Management](screenshots/4-1_Street_Assignment_Management.jpg)
+![Street Assignment Management](screenshots/4_1_Street_Assignment_Management.jpg)
 
 ---
 
 ### Add Street Assignment
-`4-2_Add_Street_Assignment.jpg`
+`4_2_Add_Street_Assignment.jpg`
 
 Form used to assign one or more attendants to a selected street.
 
-![Add Street Assignment](screenshots/4-2_Add_Street_Assignment.jpg)
+![Add Street Assignment](screenshots/4_2_Add_Street_Assignment.jpg)
 
 ---
 
@@ -350,16 +350,16 @@ Form used to assign one or more attendants to a selected street.
 
 Screen for editing previously registered street attendance assignments.
 
-![Edit Attendance Assignment](screenshots/4-3_Edit_Attendance_Assignment.jpg)
+![Edit Attendance Assignment](screenshots/4_3_Edit_Attendance_Assignment.jpg)
 
 ---
 
 ### Attendance Management
-`5-1_Attendance_Management.jpg`
+`5_1_Attendance_Management.jpg`
 
 Daily attendance, absence and leave registration screen.
 
-![Attendance Management](screenshots/5-1_Attendance_Management.jpg)
+![Attendance Management](screenshots/5_1_Attendance_Management.jpg)
 
 ---
 
@@ -368,7 +368,7 @@ Daily attendance, absence and leave registration screen.
 
 Screen used to edit previously registered attendance records.
 
-![Edit Attendance](screenshots/5-2_Edit_Attendance.jpg)
+![Edit Attendance](screenshots/5_2_Edit_Attendance.jpg)
 
 ---
 
@@ -413,7 +413,7 @@ Management screen for recharge packages assigned to parking attendants.
 
 Form used to register a new recharge package and related payment amount.
 
-![Add Recharge](screenshots/9-2_Add_Recharge.jpg)
+![Add Recharge](screenshots/9_2_Add_Recharge.jpg)
 
 ---
 
@@ -422,7 +422,7 @@ Form used to register a new recharge package and related payment amount.
 
 Form used to edit previously registered recharge information.
 
-![Edit Recharge](screenshots/9-3_Edit_Recharge.jpg)
+![Edit Recharge](screenshots/9_3_Edit_Recharge.jpg)
 
 ---
 
@@ -431,7 +431,7 @@ Form used to edit previously registered recharge information.
 
 Screen used to manage card inventory, sales and payment tracking.
 
-![Card Management](screenshots/10-1_Card_Management.jpg)
+![Card Management](screenshots/10_1_Card_Management.jpg)
 
 ---
 
@@ -440,7 +440,7 @@ Screen used to manage card inventory, sales and payment tracking.
 
 Form used to register card delivery, sales and payment information.
 
-![Add Card Record](screenshots/10-2_Add_Card_Record.jpg)
+![Add Card Record](screenshots/10_2_Add_Card_Record.jpg)
 
 ---
 
@@ -458,7 +458,7 @@ Form used to edit previously registered card-related information.
 
 Form used to register an advance payment for a parking attendant.
 
-![Add Advance Payment](screenshots/11-1_Add_Advance_Payment.jpg)
+![Add Advance Payment](screenshots/11_1_Add_Advance_Payment.jpg)
 
 ---
 
@@ -467,39 +467,39 @@ Form used to register an advance payment for a parking attendant.
 
 Form used to edit an existing advance payment record.
 
-![Edit Advance Payment](screenshots/11-2_Edit_Advance_Payment.jpg)
+![Edit Advance Payment](screenshots/11_2_Edit_Advance_Payment.jpg)
 
 ---
 
 ### Add Debt Record
-`12-1_Add_Debt_Record.jpg`
+`12_1_Add_Debt_Record.jpg`
 
 Form used to register a debt or deduction for a parking attendant.
 
-![Add Debt Record](screenshots/12-1_Add_Debt_Record.jpg)
+![Add Debt Record](screenshots/12_1_Add_Debt_Record.jpg)
 
 ---
 
 ### Edit Debt Record
-`12-2_Edit_Debt_Record.jpg`
+`12_2_Edit_Debt_Record.jpg`
 
 Form used to edit a previously registered debt entry.
 
-![Edit Debt Record](screenshots/12-2_Edit_Debt_Record.jpg)
+![Edit Debt Record](screenshots/12_2_Edit_Debt_Record.jpg)
 
 ---
 
 ### Import Data From Excel
-`13-1_Import_Data_From_Excel.jpg`
+`13_1_Import_Data_From_Excel.jpg`
 
 Step-based process used to import operational data from Excel files into the system.
 
-![Import Data From Excel](screenshots/13-1_Import_Data_From_Excel.jpg)
+![Import Data From Excel](screenshots/13_1_Import_Data_From_Excel.jpg)
 
 ---
 
 ### Import Data From Excel – Step 2
-`13-2_Import_Data_From_Excel_Step.jpg`
+`13_2_Import_Data_From_Excel_Step.jpg`
 
 Second step of the Excel import workflow, including temporary table processing.
 
@@ -526,20 +526,20 @@ Settlement screen used when a parking attendant leaves the organization.
 ---
 
 ### Add Office Expense
-`16-1_Add_Office_Expense.jpg`
+`16_1_Add_Office_Expense.jpg`
 
 Form used to register office expenses and operational costs.
 
-![Add Office Expense](screenshots/16-1_Add_Office_Expense.jpg)
+![Add Office Expense](screenshots/16_1_Add_Office_Expense.jpg)
 
 ---
 
 ### Edit Office Expense
-`16-2_Edit_Office_Expense.jpg`
+`16_2_Edit_Office_Expense.jpg`
 
 Form used to edit previously registered office expense records.
 
-![Edit Office Expense](screenshots/16-2_Edit_Office_Expense.jpg)
+![Edit Office Expense](screenshots/16_2_Edit_Office_Expense.jpg)
 
 ---
 
