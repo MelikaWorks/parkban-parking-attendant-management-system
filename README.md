@@ -259,7 +259,7 @@ Example screenshot naming format:
 ### Login & Attendance Management
 
 <p align="center">
-  <img src="screenshots/1_1_Login_Form.jpg" width="45%">
+  <img src="screenshots/1_1_Login_Form.jpg" width="400%">
   <img src="screenshots/5_1_Attendance_Management.jpg" width="45%">
 </p>
 
@@ -269,11 +269,11 @@ Example screenshot naming format:
 
 ---
 
-### Personnel & Device Management
+### Personnel & Card Management
 
 <p align="center">
   <img src="screenshots/3_1_Add_New_Parking_Attendant.jpg" width="45%">
-  <img src="screenshots/5_1_Device_Management.jpg" width="45%">
+  <img src="screenshots/10_2_Add_Card_Record.jpg" width="45%">
 </p>
 
 <p align="center">
