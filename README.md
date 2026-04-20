@@ -259,8 +259,8 @@ Example screenshot naming format:
 ### Login & Dashboard
 
 <p align="center">
-  <img src="screenshots/01_01_Login_Form.jpg" width="45%">
-  <img src="screenshots/01_02_Main_Dashboard.jpg" width="45%">
+  <img src="screenshots/1_1_Login_Form.jpg" width="45%">
+  <img src="screenshots/1_2_Main_Dashboard.jpg" width="45%">
 </p>
 
 <p align="center">
@@ -285,8 +285,8 @@ Example screenshot naming format:
 ### Excel Import & Payroll
 
 <p align="center">
-  <img src="screenshots/13_01_Import_Data_From_Excel.jpg" width="45%">
-  <img src="screenshots/15_01_Payroll_Calculation.jpg" width="45%">
+  <img src="screenshots/13_1_Import_Data_From_Excel.jpg" width="45%">
+  <img src="screenshots/15_1_Payroll_Calculation.jpg" width="45%">
 </p>
 
 <p align="center">
@@ -298,8 +298,8 @@ Example screenshot naming format:
 ### Financial Settlement & Reports
 
 <p align="center">
-  <img src="screenshots/17_01_Financial_Settlement.jpg" width="45%">
-  <img src="screenshots/18_01_Management_Report.jpg" width="45%">
+  <img src="screenshots/17_1_Financial_Settlement.jpg" width="45%">
+  <img src="screenshots/18_1_Management_Report.jpg" width="45%">
 </p>
 
 <p align="center">
