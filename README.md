@@ -286,7 +286,7 @@ Example screenshot naming format:
 
 <p align="center">
   <img src="screenshots/13_1_Import_Data_From_Excel.jpg" width="45%">
-  <img src="screenshots/15_1_Payroll_Calculation.jpg" width="45%">
+  <img src="screenshots/14_Payroll_Registration.jpg" width="45%">
 </p>
 
 <p align="center">
@@ -298,8 +298,8 @@ Example screenshot naming format:
 ### Financial Settlement & Reports
 
 <p align="center">
-  <img src="screenshots/17_1_Financial_Settlement.jpg" width="45%">
-  <img src="screenshots/18_1_Management_Report.jpg" width="45%">
+  <img src="screenshots/15_Parking_Attendant_Settlement.jpg" width="45%">
+  <img src="screenshots/20_Device_Report.jpg" width="45%">
 </p>
 
 <p align="center">
