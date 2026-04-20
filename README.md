@@ -264,7 +264,7 @@ Example screenshot naming format:
 </p>
 
 <p align="center">
-  <sub>Login Form &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Main Dashboard</sub>
+  <sub>Login Form &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Attendance Management</sub>
 </p>
 
 ---
@@ -277,7 +277,7 @@ Example screenshot naming format:
 </p>
 
 <p align="center">
-  <sub>Parking Attendant Management &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Device Management</sub>
+  <sub>Parking Attendant Management &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Card Management</sub>
 </p>
 
 ---
