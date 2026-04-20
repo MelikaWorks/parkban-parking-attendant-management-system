@@ -256,11 +256,11 @@ Example screenshot naming format:
 
 ## Key Screenshots
 
-### Login & Dashboard
+### Login & Attendance Management
 
 <p align="center">
   <img src="screenshots/1_1_Login_Form.jpg" width="45%">
-  <img src="screenshots/1_2_Main_Dashboard.jpg" width="45%">
+  <img src="screenshots/5_1_Attendance_Management.jpg" width="45%">
 </p>
 
 <p align="center">
