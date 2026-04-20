@@ -272,8 +272,8 @@ Example screenshot naming format:
 ### Personnel & Device Management
 
 <p align="center">
-  <img src="screenshots/03_01_Add_New_Parking_Attendant.jpg" width="45%">
-  <img src="screenshots/05_01_Device_Management.jpg" width="45%">
+  <img src="screenshots/3_1_Add_New_Parking_Attendant.jpg" width="45%">
+  <img src="screenshots/5_1_Device_Management.jpg" width="45%">
 </p>
 
 <p align="center">
