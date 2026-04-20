@@ -259,7 +259,7 @@ Example screenshot naming format:
 ### Login & Attendance Management
 
 <p align="center">
-  <img src="screenshots/1_1_Login_Form.jpg" width="400%">
+  <img src="screenshots/1_1_Login_Form.jpg" width="400">
   <img src="screenshots/5_1_Attendance_Management.jpg" width="45%">
 </p>
 
